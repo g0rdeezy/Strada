@@ -305,7 +305,7 @@ a {
 }
 
 .contacts-wrapper {
-	background-image: url("../images/contacts.jpg");
+	background-image: url("./images/contacts.jpg");
 	max-width: 100%;
 	background-size: cover;
 	background-repeat: no-repeat;
